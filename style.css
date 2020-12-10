@@ -1,0 +1,168 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: pink;
+	
+
+}
+
+/*1st header*/
+
+header{
+	padding: 10px 0;
+    background-color:#121B2A;   
+
+}
+.wrapper {
+	overflow: hidden;
+	width: 80%;
+	
+	margin: 0 auto;
+}
+
+.logo {
+	width: 18%;
+	
+	float: left;
+}
+.logo img{
+width: 100%
+}
+
+.menu {
+	margin-top: 50px;
+	width: 70%;
+	
+	float: right;
+}
+
+.menu ul{
+float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu ul li a{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	display: inline-block;
+}
+.menu ul li a:hover{
+	color: #0177BD;
+}
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+/*1st header end*/
+
+/*2nd header start*/
+
+.wrapper1 {
+	overflow: hidden;
+	width: 80%;
+	
+	margin: 0 auto;
+}
+
+.logo1 {
+	width: 18%;
+	
+	float: left;
+}
+.logo1 img{
+width: 100%
+}
+
+.menu1 {
+	margin-top: 50px;
+	width: 70%;
+	
+	float: right;
+}
+
+.menu1 ul{
+float: right;
+}
+.menu1 ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu1 ul li a{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	display: inline-block;
+}
+.menu1 ul li a:hover{
+	color: #0177BD;
+}
+.menu1 ul li:last-child a{
+	padding-right: 0;
+}
+
+/*2nd header end*/
+
+
+/* 3rd header start*/
+
+.wrapper2 {
+	overflow: hidden;
+	width: 80%;
+	
+	margin: 0 auto;
+}
+
+.logo2 {
+	width: 18%;
+	
+	float: left;
+}
+.logo2 img{
+width: 100%
+}
+
+.menu2 {
+	margin-top: 50px;
+	width: 70%;
+	
+	float: right;
+}
+
+.menu2 ul{
+float: right;
+}
+.menu2 ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu2 ul li a{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: sans-serif;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	display: inline-block;
+}
+.menu2 ul li a:hover{
+	color: #0177BD;
+}
+.menu2 ul li:last-child a{
+	padding-right: 0;
+}
+
+/* 3rd header end*/
